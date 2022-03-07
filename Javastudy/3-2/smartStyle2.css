@@ -1,0 +1,40 @@
+@media screen and (max-width: 767px) {
+    .header {
+        width: 300px;
+    }
+
+    .main {
+        width: 300px;
+    }
+
+    .block0 {
+        width: 100px;
+    }
+
+    .block1 {
+        width: 75px;
+    }
+
+    .block2 {
+        width: 125px;
+    }
+
+    .block3 {
+        width: 125px;
+    }
+
+    .block4 {
+        width: 200px;
+    }
+
+    .footer {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    div {
+        width: 150px !important;
+        float: none !important;
+    }
+}
