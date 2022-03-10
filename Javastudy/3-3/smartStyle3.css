@@ -1,0 +1,24 @@
+@media screen and (max-width: 479px) {
+    .header,.main0,.main1,.footer {
+        width: 200px;
+    }
+
+    .header {
+        height: 200px;
+    }
+
+    .header_block {
+        float: none;
+        margin-left: 50px;
+        margin-bottom: -10px;
+    }
+
+    .main0 {
+        float: none;
+    }
+
+    .main1 {
+        padding-top: 20px;
+        padding-left: 30px;
+    }
+}
